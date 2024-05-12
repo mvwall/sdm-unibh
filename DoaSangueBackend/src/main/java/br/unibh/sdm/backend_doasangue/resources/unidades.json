@@ -1,0 +1,1379 @@
+{
+  "unidades_saude": [
+    {
+      "nome": "Hospital Dr. José Maria Morais",
+      "municipio": "Coronel Fabriciano",
+      "endereco": "Rua Santa Catarina, 1750 - Centro, Coronel Fabriciano - MG, 35170-184"
+    },
+    {
+      "nome": "Hospital Santo Antônio",
+      "municipio": "Cristais",
+      "endereco": "Rua Getúlio Vargas, 127 - Centro, Cristais - MG, 37275-000"
+    },
+    {
+      "nome": "Centro de Saúde Aldo Olivotti",
+      "municipio": "Extrema",
+      "endereco": "Rua Antônio Joaquim Piedade, 45 - Centro, Extrema - MG, 37640-000"
+    },
+    {
+      "nome": "UPA 24 Horas",
+      "municipio": "Formiga",
+      "endereco": "Av. Dr. Arnaldo Alves, 406 - Cidade Nova, Formiga - MG, 35570-000"
+    },
+    {
+      "nome": "Hospital Municipal Dona Amélia Maria de Souza",
+      "municipio": "Gurinhatã",
+      "endereco": "Rua Alfredo de Oliveira, 29 - Centro, Gurinhatã - MG, 38310-000"
+    },
+    {
+      "nome": "Hospital Municipal São Francisco",
+      "municipio": "Iguatama",
+      "endereco": "Av. Dom Pedro II, 222 - Centro, Iguatama - MG, 38990-000"
+    },
+    {
+      "nome": "Hospital Municipal Gerson Dias",
+      "municipio": "Itacarambi",
+      "endereco": "Rua Nova, 20 - Centro, Itacarambi - MG, 39470-000"
+    },
+    {
+      "nome": "Hospital Municipal Geraldo Ferreira Gandra",
+      "municipio": "Itamarandiba",
+      "endereco": "Av. Dr. Afonso Queiroz, 179 - Centro, Itamarandiba - MG, 39670-000"
+    },
+    {
+      "nome": "Hospital Municipal de Januária",
+      "municipio": "Januária",
+      "endereco": "Rua Mariano Pinto, 281 - Centro, Januária - MG, 39480-000"
+    },
+    {
+      "nome": "Hospital Municipal São Sebastião",
+      "municipio": "Mirabela",
+      "endereco": "Rua Prefeito Celso Ribeiro de Almeida, 50 - Centro, Mirabela - MG, 39530-000"
+    },
+    {
+      "nome": "Hospital Municipal Regina Vilela de Oliveira",
+      "municipio": "Pains",
+      "endereco": "Rua Tiradentes, 305 - Centro, Pains - MG, 35580-000"
+    },
+    {
+      "nome": "Hospital Municipal Francisco Gonçalves",
+      "municipio": "Pedro Leopoldo",
+      "endereco": "Av. Presidente Tancredo Neves, 454 - Vila Sumaré, Pedro Leopoldo - MG, 33600-000"
+    },
+    {
+      "nome": "Hospital São Judas Tadeu",
+      "municipio": "Ribeirão das Neves",
+      "endereco": "Av. Denise Cristina Rocha, 400 - Veneza, Ribeirão das Neves - MG, 33809-295"
+    },
+    {
+      "nome": "UPA Padre Lázaro Pereira Crispim",
+      "municipio": "Sabará",
+      "endereco": "Rua Serra do Cristal, 155 - Bela Vista, Sabará - MG, 34535-140"
+    },
+    {
+      "nome": "Hospital Municipal Dona Chiquita",
+      "municipio": "São João Batista do Glória",
+      "endereco": "Rua Prefeito Antônio Marques Teixeira, 30 - Centro, São João Batista do Glória - MG, 37925-000"
+    },
+    {
+      "nome": "Unidade de Pronto Atendimento/UPA",
+      "municipio": "São João Del Rei",
+      "endereco": "Rua José Barbosa de Melo, 204 - Centro, São João Del Rei - MG, 36307-344"
+    },
+    {
+      "nome": "Hospital Municipal de Urucuia",
+      "municipio": "Urucuia",
+      "endereco": "Rua Lúcia Maria da Rocha, 200 - Centro, Urucuia - MG, 39468-000"
+    },
+    {
+      "nome": "Hospital Municipal e Pronto Socorro de Várzea da Palma",
+      "municipio": "Várzea da Palma",
+      "endereco": "Av. Governador Valadares, 36 - São Joaquim, Várzea da Palma - MG, 39260-000"
+    },
+    {
+      "nome": "Instituto de Doenças Renais",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. do Contorno, 4747 - Funcionários, Belo Horizonte - MG, 30110-090"
+    },
+    {
+      "nome": "Nefroclínica de Uberlândia Ltda.",
+      "municipio": "Uberlândia",
+      "endereco": "Rua Bernardo Guimarães, 274 - Centro, Uberlândia - MG, 38400-160"
+    },
+    {
+      "nome": "Nefron Serviços Médicos de Nefrologia Ltda.",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Pium-í, 611 - Anchieta, Belo Horizonte - MG, 30310-080"
+    },
+    {
+      "nome": "Clínica Beleza e Laser",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Alabastro, 270 - São Pedro, Belo Horizonte - MG, 30330-530"
+    },
+    {
+      "nome": "Núcleo de Hematologia e Transplante de Medula Óssea de Minas Gerais Ltda",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. do Contorno, 4747 - Funcionários, Belo Horizonte - MG, 30110-090"
+    },
+    {
+      "nome": "Núcleo de Nefrologia de Belo Horizonte S/C Ltda",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Barbacena, 485 - Barro Preto, Belo Horizonte - MG, 30190-050"
+    },
+    {
+      "nome": "Núcleo de Otorrino Ltda - BH",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Gonçalves Dias, 281 - Funcionários, Belo Horizonte - MG, 30140-092"
+    },
+    {
+      "nome": "Pequeno Hospital Nossa Senhora da Piedade",
+      "municipio": "Piedade do Rio Grande",
+      "endereco": "Av. Nossa Sra. da Piedade, 230 - Centro, Piedade do Rio Grande - MG, 36235-000"
+    },
+    {
+      "nome": "INCISA - Instituto de Cirurgia e Saúde",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. do Contorno, 4747 - Funcionários, Belo Horizonte - MG, 30110-090"
+    },
+    {
+      "nome": "Patologia Clínica Dr. Geraldo Lustosa Cabral Ltda",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua dos Timbiras, 2925 - Lourdes, Belo Horizonte - MG, 30140-061"
+    },
+    {
+      "nome": "Plasticlínica",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Doutor Edmundo Canabrava, 97 - Anchieta, Belo Horizonte - MG, 30310-260"
+    },
+    {
+      "nome": "Policlínica Salinense Ltda.",
+      "municipio": "Salinas",
+      "endereco": "Rua Agapito Fonseca, 280 - Centro, Salinas - MG, 39560-000"
+    },
+    {
+      "nome": "Hospital Municipal Dr. Bininho",
+      "municipio": "Lagoa Formosa",
+      "endereco": "Av. Brasil, 352 - Santa Terezinha, Lagoa Formosa - MG, 38720-000"
+    },
+    {
+      "nome": "Hospital Municipal de São Gotardo",
+      "municipio": "São Gotardo",
+      "endereco": "Av. Rui Barbosa, 1.037 - Nossa Senhora de Fátima, São Gotardo - MG, 38800-000"
+    },
+    {
+      "nome": "Hospital São Domingos",
+      "municipio": "Virgem da Lapa",
+      "endereco": "Rua Jair Camargos, 465 - Centro, Virgem da Lapa - MG, 39640-000"
+    },
+    {
+      "nome": "Hospital UNIMED Sete Lagoas",
+      "municipio": "Sete Lagoas",
+      "endereco": "Av. Prefeito Alberto Moura, 740 - Boa Vista, Sete Lagoas - MG, 35700-031"
+    },
+    {
+      "nome": "Prontosocor Montes Claros Ltda",
+      "municipio": "Montes Claros",
+      "endereco": "Av. Dulce Sarmento, 134 - Jaraguá, Montes Claros - MG, 39400-018"
+    },
+    {
+      "nome": "Realize Diagnostico Laboratório de Patologia Clínica Ltda",
+      "municipio": "Contagem",
+      "endereco": "Rua Manoel Teixeira Camargos, 141 - Eldorado, Contagem - MG, 32310-090"
+    },
+    {
+      "nome": "Renalcenter - Clínica de Doenças Renais Ltda",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Pium-í, 611 - Anchieta, Belo Horizonte - MG, 30310-080"
+    },
+    {
+      "nome": "Renalclin Ltda",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Goitacazes, 1416 - Barro Preto, Belo Horizonte - MG, 30190-050"
+    },
+    {
+      "nome": "Hospital Ana Nery",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Tapajós, 66 - Floresta, Belo Horizonte - MG, 30150-170"
+    },
+    {
+      "nome": "Hospital Belvedere",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua José Rodrigues Pereira, 14 - Belvedere, Belo Horizonte - MG, 30320-250"
+    },
+    {
+      "nome": "Santa Casa da Misericórdia de São João del-Rei",
+      "municipio": "São João del-Rei",
+      "endereco": "Rua Padre José Maria Xavier, 135 - Centro, São João del-Rei - MG, 36307-352"
+    },
+    {
+      "nome": "Hospital Nossa Senhora da Conceição",
+      "municipio": "Abre Campo",
+      "endereco": "Rua Olegário Maciel, 126 - Centro, Abre Campo - MG, 35368-000"
+    },
+    {
+      "nome": "Santa Casa de Caridade de Capitólio",
+      "municipio": "Capitólio",
+      "endereco": "Rua Paulo Morato de Carvalho, 109 - Centro, Capitólio - MG, 37930-000"
+    },
+    {
+      "nome": "Santa Casa de Caridade de Diamantina",
+      "municipio": "Diamantina",
+      "endereco": "Rua do Rosário, 20 - Centro, Diamantina - MG, 39100-000"
+    },
+    {
+      "nome": "Santa Casa de Caridade de Formiga",
+      "municipio": "Formiga",
+      "endereco": "Av. Paranaíba, 2010 - Centro, Formiga - MG, 35570-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia da Campanha",
+      "municipio": "Campanha",
+      "endereco": "Rua Cel. Antônio Moreira de Carvalho, 74 - Centro, Campanha - MG, 37400-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Prados",
+      "municipio": "Prados",
+      "endereco": "Rua Júlio de Castilhos, 89 - Centro, Prados - MG, 36320-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Arcos",
+      "municipio": "Arcos",
+      "endereco": "Rua Barão de Piumhi, 130 - Centro, Arcos - MG, 35588-000"
+    },
+    {
+      "nome": "SACMA",
+      "municipio": "Andradas",
+      "endereco": "Rua Dr. Eurico Brandão, 477 - Centro, Andradas - MG, 37795-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Andrelândia",
+      "municipio": "Andrelândia",
+      "endereco": "Praça do Rosário, 39 - Centro, Andrelândia - MG, 37300-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Araguari",
+      "municipio": "Araguari",
+      "endereco": "Rua Marciano Santos, 55 - Centro, Araguari - MG, 38440-016"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Barbacena",
+      "municipio": "Barbacena",
+      "endereco": "Rua Francisco Figueiredo Abranches, 22 - Centro, Barbacena - MG, 36200-100"
+    },
+    {
+      "nome": "Hospital Emydio Germano",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua dos Otoni, 909 - Santa Efigênia, Belo Horizonte - MG, 30150-270"
+    },
+    {
+      "nome": "Cetebio",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. do Contorno, 4747 - Funcionários, Belo Horizonte - MG, 30110-090"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Boa Esperança",
+      "municipio": "Boa Esperança",
+      "endereco": "Rua Comendador Antônio da Costa Pereira, 80 - Centro, Boa Esperança - MG, 37170-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Caldas",
+      "municipio": "Caldas",
+      "endereco": "Rua Tristão Nogueira, 100 - Centro, Caldas - MG, 37758-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Campos Altos",
+      "municipio": "Campos Altos",
+      "endereco": "Av. Santo Antônio, 90 - Centro, Campos Altos - MG, 38970-000"
+    },
+    {
+      "nome": "Hospital Sebastião Paes de Almeida",
+      "municipio": "Canápolis",
+      "endereco": "Praça Barão de Canaã, 19 - Centro, Canápolis - MG, 38120-000"
+    },
+    {
+      "nome": "Hospital Olinto Ferreira Diniz",
+      "municipio": "Carmo da Mata",
+      "endereco": "Rua Antônio da Cruz, 100 - Centro, Carmo da Mata - MG, 35547-000"
+    },
+    {
+      "nome": "Dr. Adilon Cardoso Teixeira",
+      "municipio": "Carmo do Paranaíba",
+      "endereco": "Av. João Dornelas Filho, 235 - Centro, Carmo do Paranaíba - MG, 38840-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Cláudio",
+      "municipio": "Cláudio",
+      "endereco": "Rua Cel. Manoel Pinto, 340 - Centro, Cláudio - MG, 35530-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Coromandel",
+      "municipio": "Coromandel",
+      "endereco": "Rua São Luiz, 160 - Centro, Coromandel - MG, 38550-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Ibertioga",
+      "municipio": "Ibertioga",
+      "endereco": "Praça da Matriz, 11 - Centro, Ibertioga - MG, 36245-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Ipuiuna",
+      "municipio": "Ipuiuna",
+      "endereco": "Rua Joaquim Herculano Ribeiro, 150 - Centro, Ipuiuna - MG, 37550-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Itaguara",
+      "municipio": "Itaguara",
+      "endereco": "Rua Prefeito Mário Campos, 280 - Centro, Itaguara - MG, 35520-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Itajubá",
+      "municipio": "Itajubá",
+      "endereco": "Rua Marechal Deodoro, 336 - Centro, Itajubá - MG, 37500-058"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Jacutinga",
+      "municipio": "Jacutinga",
+      "endereco": "Rua Coronel Vitorino, 61 - Centro, Jacutinga - MG, 37590-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Juiz de Fora",
+      "municipio": "Juiz de Fora",
+      "endereco": "Rua Dom Viçoso, 120 - Santa Helena, Juiz de Fora - MG, 36015-200"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Lagoa Santa",
+      "municipio": "Lagoa Santa",
+      "endereco": "Rua São Vicente, 127 - Lagoa Santa - MG, 33400-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Lavras",
+      "municipio": "Lavras",
+      "endereco": "Rua Arlindo Figueiredo, 23 - Centro, Lavras - MG, 37200-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Lima Duarte",
+      "municipio": "Lima Duarte",
+      "endereco": "Rua Adolfo Correia Rocha, 100 - Centro, Lima Duarte - MG, 36140-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Monte Alegre de Minas",
+      "municipio": "Monte Alegre de Minas",
+      "endereco": "Rua Doutor Eduardo de Menezes, 550 - São João, Monte Alegre de Minas - MG, 38300-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Monte Santo",
+      "municipio": "Monte Santo",
+      "endereco": "Rua Itajubá, 2 - Centro, Monte Santo - MG, 39665-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Monte Sião",
+      "municipio": "Monte Sião",
+      "endereco": "Rua Francisco Pereira, 108 - Centro, Monte Sião - MG, 37580-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Morro da Garça",
+      "municipio": "Morro da Garça",
+      "endereco": "Praça Corina de Oliveira, 107 - Centro, Morro da Garça - MG, 39290-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Mutum",
+      "municipio": "Mutum",
+      "endereco": "Rua Getúlio Vargas, 275 - Centro, Mutum - MG, 36955-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Oliveira",
+      "municipio": "Oliveira",
+      "endereco": "Rua José Ferreira, 500 - Centro, Oliveira - MG, 35540-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Ouro Fino",
+      "municipio": "Ouro Fino",
+      "endereco": "Rua Nossa Senhora do Carmo, 365 - Centro, Ouro Fino - MG, 37570-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Pains",
+      "municipio": "Pains",
+      "endereco": "Rua Joaquim das Chagas Oliveira, 83 - Centro, Pains - MG, 35583-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Paracatu",
+      "municipio": "Paracatu",
+      "endereco": "Rua Frederico Ozanan, 605 - Alto São João, Paracatu - MG, 38600-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Passos",
+      "municipio": "Passos",
+      "endereco": "Rua Jerônimo Gouveia, 358 - Penha, Passos - MG, 37900-026"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Pedra Azul",
+      "municipio": "Pedra Azul",
+      "endereco": "Rua Padre João Afonso, 150 - Centro, Pedra Azul - MG, 39970-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Perdões",
+      "municipio": "Perdões",
+      "endereco": "Rua Coronel Vicente, 133 - Centro, Perdões - MG, 37260-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Pirapetinga",
+      "municipio": "Pirapetinga",
+      "endereco": "Rua Américo Lopes Ribeiro, 35 - Centro, Pirapetinga - MG, 36790-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Pitangui",
+      "municipio": "Pitangui",
+      "endereco": "Rua Doutor Horácio, 19 - Centro, Pitangui - MG, 35650-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Poço Fundo",
+      "municipio": "Poço Fundo",
+      "endereco": "Rua Marechal Deodoro, 170 - Centro, Poço Fundo - MG, 37757-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Poços de Caldas",
+      "municipio": "Poços de Caldas",
+      "endereco": "Rua Pará, 210 - Centro, Poços de Caldas - MG, 37701-007"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Presidente Olegário",
+      "municipio": "Presidente Olegário",
+      "endereco": "Rua Afonso Alves do Vale, 106 - Centro, Presidente Olegário - MG, 38750-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Resende Costa",
+      "municipio": "Resende Costa",
+      "endereco": "Rua Marechal Deodoro, 49 - Centro, Resende Costa - MG, 36340-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Rio Novo",
+      "municipio": "Rio Novo",
+      "endereco": "Rua Almirante Barroso, 41 - Centro, Rio Novo - MG, 36120-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Rio Pomba",
+      "municipio": "Rio Pomba",
+      "endereco": "Rua Dr. João Afonso de Andrade, 243 - Centro, Rio Pomba - MG, 36180-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Santana dos Montes",
+      "municipio": "Santana dos Montes",
+      "endereco": "Praça Marechal Floriano Peixoto, 156 - Centro, Santana dos Montes - MG, 36445-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Santo Antônio do Monte",
+      "municipio": "Santo Antônio do Monte",
+      "endereco": "Rua Pimenta de Pádua, 300 - Centro, Santo Antônio do Monte - MG, 35560-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Santos Dumont",
+      "municipio": "Santos Dumont",
+      "endereco": "Rua Aderbal Rodrigues Vaz, 50 - Centro, Santos Dumont - MG, 36240-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de São Bento Abade",
+      "municipio": "São Bento Abade",
+      "endereco": "Rua Dr. Antônio Júlio, 10 - Centro, São Bento Abade - MG, 37495-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de São Francisco de Paula",
+      "municipio": "São Francisco de Paula",
+      "endereco": "Praça Barão de Ayuruoca, 180 - Centro, São Francisco de Paula - MG, 36205-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de São Gonçalo do Sapucaí",
+      "municipio": "São Gonçalo do Sapucaí",
+      "endereco": "Rua Desembargador Drumond, 19 - Centro, São Gonçalo do Sapucaí - MG, 37490-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de São João Nepomuceno",
+      "municipio": "São João Nepomuceno",
+      "endereco": "Rua Cel. Vieira, 263 - Centro, São João Nepomuceno - MG, 36680-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de São Lourenço",
+      "municipio": "São Lourenço",
+      "endereco": "Rua Comendador Costa, 33 - Centro, São Lourenço - MG, 37470-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de São Sebastião do Oeste",
+      "municipio": "São Sebastião do Oeste",
+      "endereco": "Rua Alberto Chaves, 350 - Centro, São Sebastião do Oeste - MG, 35650-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de São Tiago",
+      "municipio": "São Tiago",
+      "endereco": "Rua Benedito Valadares, 112 - Centro, São Tiago - MG, 36320-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de São Vicente de Minas",
+      "municipio": "São Vicente de Minas",
+      "endereco": "Rua Prefeito Mário Correa da Fonseca, 47 - Centro, São Vicente de Minas - MG, 37497-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Sete Lagoas",
+      "municipio": "Sete Lagoas",
+      "endereco": "Av. Conselheiro Afonso Pena, 915 - Boa Vista, Sete Lagoas - MG, 35700-011"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Três Pontas",
+      "municipio": "Três Pontas",
+      "endereco": "Rua Barão do Rio Branco, 349 - Centro, Três Pontas - MG, 37190-000"
+    },
+    {
+      "nome": "Santa Casa de Misericórdia de Três Pontas",
+      "municipio": "Três Pontas",
+      "endereco": "Rua Barão do Rio Branco, 349 - Centro, Três Pontas - MG, 37190-000"
+    },
+    {
+      "nome": "Hospital Regional São Paulo",
+      "municipio": "Muriaé",
+      "endereco": "Rua Coronel Marciano Rodrigues, 25 - Centro, Muriaé - MG, 36880-000"
+    },
+    {
+      "nome": "Hospital Imaculada Conceição",
+      "municipio": "Manhuaçu",
+      "endereco": "Rua Monsenhor Gonzalez, 130 - Centro, Manhuaçu - MG, 36900-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora das Graças",
+      "municipio": "Ponte Nova",
+      "endereco": "Rua Doutor Xavier, 415 - Centro, Ponte Nova - MG, 35430-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora da Conceição",
+      "municipio": "Bom Despacho",
+      "endereco": "Av. Dr. Roberto, 130 - São Vicente, Bom Despacho - MG, 35600-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora do Brasil",
+      "municipio": "Ibirité",
+      "endereco": "Rua Antônio Canabrava, 133 - Durval de Barros, Ibirité - MG, 32400-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora da Saúde",
+      "municipio": "Caratinga",
+      "endereco": "Rua Bom Jesus, 140 - Centro, Caratinga - MG, 35300-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora das Graças",
+      "municipio": "Dores do Indaiá",
+      "endereco": "Rua Santo Antônio, 75 - Centro, Dores do Indaiá - MG, 35610-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora das Dores",
+      "municipio": "Ouro Preto",
+      "endereco": "Praça Tiradentes, 15 - Centro, Ouro Preto - MG, 35400-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora de Lourdes",
+      "municipio": "Prata",
+      "endereco": "Av. Getúlio Vargas, 199 - Centro, Prata - MG, 38210-000"
+    },
+    {
+      "nome": "Hospital São José",
+      "municipio": "Itabirito",
+      "endereco": "Rua Líbero Badaró, 400 - Centro, Itabirito - MG, 35450-000"
+    },
+    {
+      "nome": "Hospital Santa Maria",
+      "municipio": "Pirapora",
+      "endereco": "Rua Raul Soares, 380 - Centro, Pirapora - MG, 39270-000"
+    },
+    {
+      "nome": "Hospital São Vicente de Paula",
+      "municipio": "Cataguases",
+      "endereco": "Av. Astolfo Dutra, 168 - Centro, Cataguases - MG, 36770-000"
+    },
+    {
+      "nome": "Hospital São Vicente de Paulo",
+      "municipio": "Poço Fundo",
+      "endereco": "Av. Francisco Magalhães, 205 - Centro, Poço Fundo - MG, 37757-000"
+    },
+    {
+      "nome": "Hospital São Lucas",
+      "municipio": "Governador Valadares",
+      "endereco": "Av. dos Imigrantes, 1.230 - Vila Bretas, Governador Valadares - MG, 35024-310"
+    },
+    {
+      "nome": "Hospital São João de Deus",
+      "municipio": "Divinópolis",
+      "endereco": "Rua São João de Deus, 1.620 - Centro, Divinópolis - MG, 35500-016"
+    },
+    {
+      "nome": "Hospital Nossa Senhora de Lourdes",
+      "municipio": "São Francisco de Paula",
+      "endereco": "Rua São José, 37 - Centro, São Francisco de Paula - MG, 36205-000"
+    },
+    {
+      "nome": "Hospital São João Batista",
+      "municipio": "Viçosa",
+      "endereco": "Rua Gomes Barbosa, 150 - Centro, Viçosa - MG, 36570-000"
+    },
+    {
+      "nome": "Hospital São José",
+      "municipio": "Viçosa",
+      "endereco": "Rua Gomes Barbosa, 150 - Centro, Viçosa - MG, 36570-000"
+    },
+    {
+      "nome": "Hospital São Lourenço",
+      "municipio": "Betim",
+      "endereco": "Av. Edmeia Mattos Lazzarotti, 345 - Bandeirinhas, Betim - MG, 32610-410"
+    },
+    {
+      "nome": "Hospital Santa Casa de Misericórdia de Vitória",
+      "municipio": "Vitória",
+      "endereco": "Av. Leitão da Silva, 2.450 - Santa Lúcia, Vitória - ES, 29045-000"
+    },
+    {
+      "nome": "Hospital Monsenhor Horta",
+      "municipio": "Mariana",
+      "endereco": "Rua São Pedro, 43 - Centro, Mariana - MG, 35420-000"
+    },
+    {
+      "nome": "Hospital Monsenhor Horta",
+      "municipio": "Mariana",
+      "endereco": "Rua São Pedro, 43 - Centro, Mariana - MG, 35420-000"
+    },
+    {
+      "nome": "Hospital Margarida",
+      "municipio": "João Monlevade",
+      "endereco": "Rua Alberto Lima, 300 - Carneirinhos, João Monlevade - MG, 35930-393"
+    },
+    {
+      "nome": "Hospital Margarida",
+      "municipio": "João Monlevade",
+      "endereco": "Rua Alberto Lima, 300 - Carneirinhos, João Monlevade - MG, 35930-393"
+    },
+    {
+      "nome": "Hospital Municipal Geraldo Mozart Teixeira",
+      "municipio": "Pedro Leopoldo",
+      "endereco": "Rua Alberto Lima, 300 - Carneirinhos, João Monlevade - MG, 35930-393"
+    },
+    {
+      "nome": "Hospital Municipal Geraldo Mozart Teixeira",
+      "municipio": "Pedro Leopoldo",
+      "endereco": "Rua Dr. João Rodrigues Sobrinho, 43 - São Cristóvão, Pedro Leopoldo - MG, 33600-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora das Mercês",
+      "municipio": "São João del-Rei",
+      "endereco": "Rua Álvaro José Rodrigues, 157 - Matosinhos, São João del-Rei - MG, 36302-094"
+    },
+    {
+      "nome": "Hospital Municipal Dr. José de Carvalho Ribeiro",
+      "municipio": "Carandaí",
+      "endereco": "Rua Carlos Duarte de Oliveira, 180 - Centro, Carandaí - MG, 36280-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora do Rosário",
+      "municipio": "Juatuba",
+      "endereco": "Rua Olegário Maciel, 431 - Juatuba Velha, Juatuba - MG, 35675-000"
+    },
+    {
+      "nome": "Hospital Regional de Ponte Nova",
+      "municipio": "Ponte Nova",
+      "endereco": "Rua Olinto Fonseca, 195 - Triângulo, Ponte Nova - MG, 35430-233"
+    },
+    {
+      "nome": "Hospital Nossa Senhora do Carmo",
+      "municipio": "Pontal do Paraná",
+      "endereco": "Av. Beira Mar, 3.565 - Centro, Pontal do Paraná - PR, 83255-000"
+    },
+    {
+      "nome": "Hospital Nossa Senhora do Carmo",
+      "municipio": "Pitangui",
+      "endereco": "Rua Arthur Bernardes, 81 - Centro, Pitangui - MG, 35650-000"
+    },
+    {
+      "nome": "Hospital São José",
+      "municipio": "Carandaí",
+      "endereco": "Rua Santa Cruz, 200 - São José, Carandaí - MG, 36280-000"
+    },
+    {
+      "nome": "Hospital São João Batista",
+      "municipio": "Visconde do Rio Branco",
+      "endereco": "Rua Matozinhos, 740 - Centro, Visconde do Rio Branco - MG, 36520-000"
+    },
+    {
+      "nome": "Hospital São Lourenço",
+      "municipio": "Cachoeira de Minas",
+      "endereco": "Rua Engenheiro Alberto Passos, 7 - Centro, Cachoeira de Minas - MG, 37640-000"
+    },
+    {
+      "nome": "Hospital São Vicente de Paulo",
+      "municipio": "Além Paraíba",
+      "endereco": "Praça Bento Fonseca, 5 - Centro, Além Paraíba - MG, 36660-000"
+    },
+    {
+      "nome": "Hospital Santo Antônio",
+      "municipio": "São João del-Rei",
+      "endereco": "Rua Barão de Piumhi, 350 - Centro, São João del-Rei - MG, 36307-348"
+    },
+    {
+      "nome": "Hospital Unimed-BH",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua da Paisagem, 220 - Vila da Serra, Nova Lima - MG, 34000-000"
+    },
+    {
+      "nome": "Hospital Universitário Ciências Médicas de Minas Gerais",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Alfredo Balena, 189 - Santa Efigênia, Belo Horizonte - MG, 30130-100"
+    },
+    {
+      "nome": "Hospital Universitário Ciências Médicas de Minas Gerais",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Alfredo Balena, 189 - Santa Efigênia, Belo Horizonte - MG, 30130-100"
+    },
+    {
+      "nome": "Hospital Universitário Ciências Médicas de Minas Gerais",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Alfredo Balena, 189 - Santa Efigênia, Belo Horizonte - MG, 30130-100"
+    },
+    {
+      "nome": "Hospital Unimed Contagem",
+      "municipio": "Contagem",
+      "endereco": "Av. João César de Oliveira, 6.805 - Riacho das Pedras, Contagem - MG, 32280-000"
+    },
+    {
+      "nome": "Hospital Varginha",
+      "municipio": "Varginha",
+      "endereco": "Rua Dr. José Bíscaro, 160 - Vila Pinto, Varginha - MG, 37010-940"
+    },
+    {
+      "nome": "Hospital Vaz Monteiro",
+      "municipio": "Manhuaçu",
+      "endereco": "Rua Dr. José Vaz Monteiro, 355 - Centro, Manhuaçu - MG, 36900-000"
+    },
+    {
+      "nome": "Hospital da Baleia",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Alfredo Camarate, 235 - Saudade, Belo Horizonte - MG, 30850-470"
+    },
+    {
+      "nome": "Hospital da Baleia",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Alfredo Camarate, 235 - Saudade, Belo Horizonte - MG, 30850-470"
+    },
+    {
+      "nome": "Hospital das Clínicas da UFMG",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Alfredo Balena, 110 - Santa Efigênia, Belo Horizonte - MG, 30130-100"
+    },
+    {
+      "nome": "Hospital das Clínicas da UFTM",
+      "municipio": "Uberaba",
+      "endereco": "Rua Manoel Borges, 330 - Santa Marta, Uberaba - MG, 38035-440"
+    },
+    {
+      "nome": "Hospital das Clínicas Samuel Libânio",
+      "municipio": "Pouso Alegre",
+      "endereco": "Rua Francisco de Assis Ribeiro, 600 - São Geraldo, Pouso Alegre - MG, 37550-000"
+    },
+    {
+      "nome": "Hospital das Clínicas Samuel Libânio",
+      "municipio": "Pouso Alegre",
+      "endereco": "Rua Francisco de Assis Ribeiro, 600 - São Geraldo, Pouso Alegre - MG, 37550-000"
+    },
+    {
+      "nome": "Hospital do Barreiro",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Edna Quintel, 44 - Milionários, Belo Horizonte - MG, 30668-540"
+    },
+    {
+      "nome": "Hospital do Barreiro",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Edna Quintel, 44 - Milionários, Belo Horizonte - MG, 30668-540"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Barbacena",
+      "endereco": "Rua Prof. José Vieira Mendes, 1.450 - Boa Morte, Barbacena - MG, 36204-183"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Mucuri, 229 - Floresta, Belo Horizonte - MG, 30150-370"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Juiz de Fora",
+      "endereco": "Av. Presidente Itamar Franco, 3.600 - São Mateus, Juiz de Fora - MG, 36025-290"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Montes Claros",
+      "endereco": "Rua Dr. Corrêa Machado, 2.003 - São José, Montes Claros - MG, 39400-002"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Pouso Alegre",
+      "endereco": "Rua Lambari, 265 - São João, Pouso Alegre - MG, 37550-000"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Teófilo Otoni",
+      "endereco": "Rua B, 150 - Novo Horizonte, Teófilo Otoni - MG, 39805-176"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Uberlândia",
+      "endereco": "Avenida Nicomedes Alves dos Santos, 285 - Vigilato Pereira, Uberlândia - MG, 38400-372"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Varginha",
+      "endereco": "Rua Wenceslau Braz, 150 - Vila Bueno, Varginha - MG, 37002-010"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Divinópolis",
+      "endereco": "Rua Vereador Nelson Santos, 1.413 - São José, Divinópolis - MG, 35501-019"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Formiga",
+      "endereco": "Av. Abílio Machado, 261 - Santa Luzia, Belo Horizonte - MG, 30140-180"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Pouso Alegre",
+      "endereco": "Rua Lambari, 265 - São João, Pouso Alegre - MG, 37550-000"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Itabira",
+      "endereco": "Rua Ana Moura, 300 - Esplanada da Estação, Itabira - MG, 35900-046"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Pará de Minas",
+      "endereco": "Rua Doutor Higino, 61 - São José, Pará de Minas - MG, 35660-171"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Patos de Minas",
+      "endereco": "Rua Vereador José Monteiro, 451 - Cachoeira, Patos de Minas - MG, 38706-416"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Varginha",
+      "endereco": "Rua Wenceslau Braz, 150 - Vila Bueno, Varginha - MG, 37002-010"
+    },
+    {
+      "nome": "Hospital do Coração",
+      "municipio": "Lavras",
+      "endereco": "Rua Francisco Salles, 555 - Centro, Lavras - MG, 37200-000"
+    },
+    {
+      "nome": "Hospital do Coração",
+      "municipio": "Lavras",
+      "endereco": "Rua Francisco Salles, 555 - Centro, Lavras - MG, 37200-000"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Montes Claros",
+      "endereco": "Rua Dr. Corrêa Machado, 2.003 - São José, Montes Claros - MG, 39400-002"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Formiga",
+      "endereco": "Av. Abílio Machado, 261 - Santa Luzia, Belo Horizonte - MG, 30140-180"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Pará de Minas",
+      "endereco": "Rua Doutor Higino, 61 - São José, Pará de Minas - MG, 35660-171"
+    },
+    {
+      "nome": "Hospital do Câncer",
+      "municipio": "Patos de Minas",
+      "endereco": "Rua Vereador José Monteiro, 451 - Cachoeira, Patos de Minas - MG, 38706-416"
+    },
+    {
+      "nome": "Hospital das Clínicas da UFTM",
+      "municipio": "Uberaba",
+      "endereco": "Rua Manoel Borges, 330 - Santa Marta, Uberaba - MG, 38035-440"
+    },
+    {
+      "nome": "Hospital Infantil João Paulo II",
+      "municipio": "Belo Horizonte",
+      "endereco": "Rua Desembargador Felippe Immesi, 128 - Milionários, Belo Horizonte - MG, 30622-290"
+    },
+    {
+      "nome": "Hospital Universitário Ciências Médicas de Minas Gerais",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Alfredo Balena, 189 - Santa Efigênia, Belo Horizonte - MG, 30130-100"
+    },
+    {
+      "nome": "Hospital do Instituto São Rafael",
+      "municipio": "Pedro Leopoldo",
+      "endereco": "Rua Marechal Deodoro da Fonseca, 245 - Santo Antônio, Pedro Leopoldo - MG, 33600-000"
+    },
+    {
+      "nome": "Hospital Dr. Carlos Marx",
+      "municipio": "Betim",
+      "endereco": "Rua Rio de Janeiro, 396 - Riacho das Pedras, Betim - MG, 32681-310"
+    },
+    {
+      "nome": "Hospital Eduardo de Menezes",
+      "municipio": "Belo Horizonte",
+      "endereco": "Av. Presidente Tancredo Neves, 3.344 - Bairro São Paulo, Belo Horizonte - MG, 31660-900"
+    },
+    {
+      "nome": "Hospital Geral de Varginha",
+      "municipio": "Varginha",
+      "endereco": "Av. Benedito Valadares, 1.101 - Vila Pinto, Varginha - MG, 37010-000"
+    },
+    {
+      "nome": "Hospital Geral de Pirajuba",
+      "municipio": "Pirajuba",
+      "endereco": "Rua 15 de Novembro, 1.192 - Centro, Pirajuba - MG, 38290-000"
+    },
+    {
+      "nome": "Hospital Geral de Ponte Nova",
+      "municipio": "Ponte Nova",
+      "endereco": "Rua Onze de Novembro, 65 - Centro, Ponte Nova - MG, 35430-000"
+    },
+    {
+      "nome": "Hospital Geral de Pirapetinga",
+      "municipio": "Pirapetinga",
+      "endereco": "Rua Monsenhor Rocha, 13 - Centro, Pirapetinga - MG, 36790-000"
+    },
+    {
+      "nome": "Hospital Geral de Sarzedo",
+      "municipio": "Sarzedo",
+      "endereco": "Rua Nossa Senhora do Carmo, 162 - Rosário, Sarzedo - MG, 32450-000"
+    },
+    {
+      "nome": "Hospital Geral de Paracatu",
+      "municipio": "Paracatu",
+      "endereco": "Rua São Francisco, 308 - Bom Jesus, Paracatu - MG, 38600-000"
+    },
+    {
+      "nome": "Hospital Geral de Ouro Preto",
+      "municipio": "Ouro Preto",
+      "endereco": "Rua Barão de Camargos, 52 - Bauxita, Ouro Preto - MG, 35400-000"
+    },
+    {
+      "nome": "Hospital Geral de Nova Serrana",
+      "municipio": "Nova Serrana",
+      "endereco": "Rua Piauí, 239 - São José, Nova Serrana - MG, 35519-000"
+    },
+    {
+      "nome": "Hospital Geral de Ubá",
+      "municipio": "Ubá",
+      "endereco": "Rua do Chalé, 1.088 - Centro, Ubá - MG, 36500-000"
+    },
+    {
+      "nome": "Hospital Geral de Uberlândia",
+      "municipio": "Uberlândia",
+      "endereco": "Av. Getúlio Vargas, 3.300 - Bom Jesus, Uberlândia - MG, 38400-340"
+    },
+    {
+      "nome": "Hospital Geral de Uberaba",
+      "municipio": "Uberaba",
+      "endereco": "Av. Padre Eddie Bernardes, 700 - Conjunto Dom Eduardo, Uberaba - MG, 38055-000"
+    },
+    {
+      "nome": "Hospital Geral de Ubaí",
+      "municipio": "Ubaí",
+      "endereco": "Praça Coronel Domingos Justino, 147 - Centro, Ubaí - MG, 39320-000"
+    },
+    {
+      "nome": "Hospital Geral de Tocantins",
+      "municipio": "Tocantins",
+      "endereco": "Av. Amâncio Vieira de Andrade, 1.510 - Centro, Tocantins - MG, 36570-000"
+    },
+    {
+      "nome": "Hospital Geral de Timóteo",
+      "municipio": "Timóteo",
+      "endereco": "Rua Vinhático, 300 - Limoeiro, Timóteo - MG, 35180-000"
+    },
+    {
+      "nome": "Hospital Geral de Três Pontas",
+      "municipio": "Três Pontas",
+      "endereco": "Rua Barão do Rio Branco, 335 - Centro, Três Pontas - MG, 37190-000"
+    },
+    {
+      "nome": "Hospital Geral de Três Corações",
+      "municipio": "Três Corações",
+      "endereco": "Rua Dr. José Alves, 161 - Jardim América, Três Corações - MG, 37410-000"
+    },
+    {
+      "nome": "Hospital Geral de São Lourenço",
+      "municipio": "São Lourenço",
+      "endereco": "Av. Getúlio Vargas, 101 - Centro, São Lourenço - MG, 37470-000"
+    },
+    {
+      "nome": "Hospital Geral de Sapucaí-Mirim",
+      "municipio": "Sapucaí-Mirim",
+      "endereco": "Rua David de Almeida Lopes, 251 - Centro, Sapucaí-Mirim - MG, 37558-000"
+    },
+    {
+      "nome": "Hospital Geral de São Sebastião do Paraíso",
+      "municipio": "São Sebastião do Paraíso",
+      "endereco": "Rua Doutor Placidino Brigagão, 1.351 - Bela Vista, São Sebastião do Paraíso - MG, 37950-000"
+    },
+    {
+      "nome": "Hospital Geral de São Francisco",
+      "municipio": "São Francisco",
+      "endereco": "Rua 20 de Dezembro, 96 - Centro, São Francisco - MG, 39300-000"
+    },
+    {
+      "nome": "Hospital Geral de Santa Rita do Sapucaí",
+      "municipio": "Santa Rita do Sapucaí",
+      "endereco": "Rua Coronel Francisco Palma, 350 - Centro, Santa Rita do Sapucaí - MG, 37540-000"
+    },
+    {
+      "nome": "Hospital Geral de São Roque de Minas",
+      "municipio": "São Roque de Minas",
+      "endereco": "Rua João Batista de Oliveira, 211 - Centro, São Roque de Minas - MG, 37928-000"
+    },
+    {
+      "nome": "Hospital Geral de São Gonçalo do Sapucaí",
+      "municipio": "São Gonçalo do Sapucaí",
+      "endereco": "Rua Américo Gasparini, 262 - Centro, São Gonçalo do Sapucaí - MG, 37490-000"
+    },
+    {
+      "nome": "Hospital Geral de São Francisco de Paula",
+      "municipio": "São Francisco de Paula",
+      "endereco": "Rua Professor Vieira, 300 - São Geraldo, São Francisco de Paula - MG, 36420-000"
+    },
+    {
+      "nome": "Hospital Geral de São Domingos do Prata",
+      "municipio": "São Domingos do Prata",
+      "endereco": "Rua Alberto Rodrigues, 121 - Centro, São Domingos do Prata - MG, 35935-000"
+    },
+    {
+      "nome": "Hospital Geral de Salinas",
+      "municipio": "Salinas",
+      "endereco": "Rua São José, 210 - Centro, Salinas - MG, 39560-000"
+    },
+    {
+      "nome": "Hospital Geral de Rio Pomba",
+      "municipio": "Rio Pomba",
+      "endereco": "Rua Francisco Teixeira, 120 - Centro, Rio Pomba - MG, 36180-000"
+    },
+    {
+      "nome": "Hospital Geral de Resplendor",
+      "municipio": "Resplendor",
+      "endereco": "Rua Antônio Alves Pereira, 260 - Centro, Resplendor - MG, 35230-000"
+    },
+    {
+      "nome": "Hospital Geral de Ribeirão das Neves",
+      "municipio": "Ribeirão das Neves",
+      "endereco": "Rua Domingos Mariano, 280 - Centro, Ribeirão das Neves - MG, 33800-400"
+    },
+    {
+      "nome": "Hospital Geral de Raul Soares",
+      "municipio": "Raul Soares",
+      "endereco": "Rua Dr. Antônio Batista, 61 - Centro, Raul Soares - MG, 35350-000"
+    },
+    {
+      "nome": "Hospital Geral de Pouso Alto",
+      "municipio": "Pouso Alto",
+      "endereco": "Rua Francisco Soares, 66 - Centro, Pouso Alto - MG, 37467-000"
+    },
+    {
+      "nome": "Hospital Geral de Porteirinha",
+      "municipio": "Porteirinha",
+      "endereco": "Av. Juscelino Kubitscheck, 412 - Centro, Porteirinha - MG, 39520-000"
+    },
+    {
+      "nome": "Hospital Geral de Pompéu",
+      "municipio": "Pompéu",
+      "endereco": "Rua Sabiniano Gonçalves, 85 - Santana, Pompéu - MG, 35640-000"
+    },
+    {
+      "nome": "Hospital Geral de Piedade de Ponte Nova",
+      "municipio": "Piedade de Ponte Nova",
+      "endereco": "Rua Nossa Senhora de Lourdes, 52 - Nossa Senhora de Lourdes, Piedade de Ponte Nova - MG, 35490-000"
+    },
+    {
+      "nome": "Hospital Geral de Pequi",
+      "municipio": "Pequi",
+      "endereco": "Rua Boa Vista, 31 - Centro, Pequi - MG, 35605-000"
+    },
+    {
+      "nome": "Hospital Geral de Peçanha",
+      "municipio": "Peçanha",
+      "endereco": "Rua Coronel Antônio Ernesto, 1.234 - Centro, Peçanha - MG, 39780-000"
+    },
+    {
+      "nome": "Hospital Geral de Patos de Minas",
+      "municipio": "Patos de Minas",
+      "endereco": "Rua Doutor Marcolino, 235 - Centro, Patos de Minas - MG, 38700-000"
+    },
+    {
+      "nome": "Hospital Geral de Passos",
+      "municipio": "Passos",
+      "endereco": "Rua Santa Catarina, 195 - Bela Vista, Passos - MG, 37900-142"
+    },
+    {
+      "nome": "Hospital Geral de Paraopeba",
+      "municipio": "Paraopeba",
+      "endereco": "Praça Getúlio Vargas, 185 - Centro, Paraopeba - MG, 35774-000"
+    },
+    {
+      "nome": "Hospital Geral de Paraguaçu",
+      "municipio": "Paraguaçu",
+      "endereco": "Rua José Benedito de Carvalho, 5 - São Vicente, Paraguaçu - MG, 37120-000"
+    },
+    {
+      "nome": "Hospital Geral de Papagaios",
+      "municipio": "Papagaios",
+      "endereco": "Rua São João, 100 - Nossa Senhora da Conceição, Papagaios - MG, 35669-000"
+    },
+    {
+      "nome": "Hospital Geral de Oliveira",
+      "municipio": "Oliveira",
+      "endereco": "Rua Quirino Teixeira de Carvalho, 2.012 - Santa Cruz, Oliveira - MG, 35540-000"
+    },
+    {
+      "nome": "Hospital Geral de Nanuque",
+      "municipio": "Nanuque",
+      "endereco": "Rua Doutor Lauro Gomes, 280 - Centro, Nanuque - MG, 39860-000"
+    },
+    {
+      "nome": "Hospital Geral de Mutum",
+      "municipio": "Mutum",
+      "endereco": "Praça São Sebastião, 33 - Centro, Mutum - MG, 36955-000"
+    },
+    {
+      "nome": "Hospital Geral de Muzambinho",
+      "municipio": "Muzambinho",
+      "endereco": "Rua Coronel Francisco Palma, 108 - Centro, Muzambinho - MG, 37890-000"
+    },
+    {
+      "nome": "Hospital Geral de Muriaé",
+      "municipio": "Muriaé",
+      "endereco": "Rua Doutor Antônio Canedo, 250 - Centro, Muriaé - MG, 36880-000"
+    },
+    {
+      "nome": "Hospital Geral de Monte Sião",
+      "municipio": "Monte Sião",
+      "endereco": "Rua Presidente Kennedy, 700 - Bela Vista, Monte Sião - MG, 37580-000"
+    },
+    {
+      "nome": "Hospital Geral de Montes Claros",
+      "municipio": "Montes Claros",
+      "endereco": "Rua Urbino Viana, 300 - Centro, Montes Claros - MG, 39400-052"
+    },
+    {
+      "nome": "Hospital Geral de Monjolos",
+      "municipio": "Monjolos",
+      "endereco": "Rua Prefeito Geraldo Cândido de Lima, 267 - Centro, Monjolos - MG, 35768-000"
+    },
+    {
+      "nome": "Hospital Geral de Monte Carmelo",
+      "municipio": "Monte Carmelo",
+      "endereco": "Rua Doutor José Procópio de Andrade, 75 - Centro, Monte Carmelo - MG, 38500-000"
+    },
+    {
+      "nome": "Hospital Geral de Minas Novas",
+      "municipio": "Minas Novas",
+      "endereco": "Rua Dr. Juracy Magalhães, 1.007 - Cidade Nova, Minas Novas - MG, 39650-000"
+    },
+    {
+      "nome": "Hospital Geral de Medina",
+      "municipio": "Medina",
+      "endereco": "Rua Milton Campos, 48 - São Jorge, Medina - MG, 39970-000"
+    },
+    {
+      "nome": "Hospital Geral de Mateus Leme",
+      "municipio": "Mateus Leme",
+      "endereco": "Rua Capitão João de Resende, 300 - Centro, Mateus Leme - MG, 35670-000"
+    },
+    {
+      "nome": "Hospital Geral de Martinho Campos",
+      "municipio": "Martinho Campos",
+      "endereco": "Rua Capitão Boaventura, 53 - Centro, Martinho Campos - MG, 35607-000"
+    },
+    {
+      "nome": "Hospital Geral de Mariana",
+      "municipio": "Mariana",
+      "endereco": "Rua Frei Durão, 295 - São Sebastião, Mariana - MG, 35420-000"
+    },
+    {
+      "nome": "Hospital Geral de Maravilhas",
+      "municipio": "Maravilhas",
+      "endereco": "Rua Doutor Osmar Drumond Guimarães, 93 - Centro, Maravilhas - MG, 35666-000"
+    },
+    {
+      "nome": "Hospital Geral de Matozinhos",
+      "municipio": "Matozinhos",
+      "endereco": "Rua 1º de Maio, 285 - Centro, Matozinhos - MG, 35720-000"
+    },
+    {
+      "nome": "Hospital Geral de Mantena",
+      "municipio": "Mantena",
+      "endereco": "Rua Benjamim Constant, 39 - Centro, Mantena - MG, 35290-000"
+    },
+    {
+      "nome": "Hospital Geral de Manhumirim",
+      "municipio": "Manhumirim",
+      "endereco": "Rua 21 de Abril, 135 - Centro, Manhumirim - MG, 36970-000"
+    },
+    {
+      "nome": "Hospital Geral de Luminárias",
+      "municipio": "Luminárias",
+      "endereco": "Praça Manoel Moreira de Araújo, 31 - Centro, Luminárias - MG, 37240-000"
+    },
+    {
+      "nome": "Hospital Geral de Leopoldina",
+      "municipio": "Leopoldina",
+      "endereco": "Rua João XXIII, 1.271 - Vila Belo Horizonte, Leopoldina - MG, 36700-000"
+    },
+    {
+      "nome": "Hospital Geral de Lima Duarte",
+      "municipio": "Lima Duarte",
+      "endereco": "Rua Cel. Procópio Chaves, 142 - Vila Tancredo Neves, Lima Duarte - MG, 36140-000"
+    },
+    {
+      "nome": "Hospital Geral de Lajinha",
+      "municipio": "Lajinha",
+      "endereco": "Rua Doutor Waldemar de Almeida, 267 - Centro, Lajinha - MG, 36980-000"
+    },
+    {
+      "nome": "Hospital Geral de Lambari",
+      "municipio": "Lambari",
+      "endereco": "Rua Prefeito Cirilo Xavier, 10 - Centro, Lambari - MG, 37480-000"
+    },
+    {
+      "nome": "Hospital Geral de Juruaia",
+      "municipio": "Juruaia",
+      "endereco": "Rua Dr. Misael Rodrigues Silva, 83 - Centro, Juruaia - MG, 37805-000"
+    },
+    {
+      "nome": "Hospital Geral de João Monlevade",
+      "municipio": "João Monlevade",
+      "endereco": "Rua 16 de Julho, 69 - Centro, João Monlevade - MG, 35930-229"
+    },
+    {
+      "nome": "Hospital Geral de Janaúba",
+      "municipio": "Janaúba",
+      "endereco": "Rua Pimenta da Veiga, 99 - Centro, Janaúba - MG, 39440-000"
+    },
+    {
+      "nome": "Hospital Geral de Itapecerica",
+      "municipio": "Itapecerica",
+      "endereco": "Rua Primeiro de Maio, 40 - Centro, Itapecerica - MG, 35550-000"
+    },
+    {
+      "nome": "Hospital Geral de Itajubá",
+      "municipio": "Itajubá",
+      "endereco": "Rua Cel. Joaquim Francisco de Paula, 199 - Centro, Itajubá - MG, 37500-016"
+    },
+    {
+      "nome": "Hospital Geral de Itabira",
+      "municipio": "Itabira",
+      "endereco": "Rua Tiradentes, 212 - Centro, Itabira - MG, 35900-002"
+    },
+    {
+      "nome": "Hospital Geral de Itacambira",
+      "municipio": "Itacambira",
+      "endereco": "Praça Manoel Bernardino, 180 - Centro, Itacambira - MG, 39526-000"
+    },
+    {
+      "nome": "Hospital Geral de Itabirito",
+      "municipio": "Itabirito",
+      "endereco": "Rua João Camilo de Oliveira Torres, 152 - Praia, Itabirito - MG, 35450-000"
+    },
+    {
+      "nome": "Hospital Geral de Itaguara",
+      "municipio": "Itaguara",
+      "endereco": "Rua José Félix de Souza, 45 - Centro, Itaguara - MG, 35514-000"
+    },
+    {
+      "nome": "Hospital Geral de Itaipé",
+      "municipio": "Itaipé",
+      "endereco": "Rua Pe. Manoel Pinto, 235 - Centro, Itaipé - MG, 39807-000"
+    },
+    {
+      "nome": "Hospital Geral de Itaúna",
+      "municipio": "Itaúna",
+      "endereco": "Rua José Gonçalves Pereira, 300 - Centro, Itaúna - MG, 35680-032"
+    },
+    {
+      "nome": "Hospital Geral de Itinga",
+      "municipio": "Itinga",
+      "endereco": "Rua Antônio de Barros Oliveira, 203 - Centro, Itinga - MG, 39610-000"
+    },
+    {
+      "nome": "Hospital Geral de Iturama",
+      "municipio": "Iturama",
+      "endereco": "Rua Doutor Zoroastro Espíndola, 8 - Centro, Iturama - MG, 38280-000"
+    },
+    {
+      "nome": "Hospital Geral de Ilicínea",
+      "municipio": "Ilicínea",
+      "endereco": "Rua Raimundo Campos, 28 - Centro, Ilicínea - MG, 37160-000"
+    },
+    {
+      "nome": "Hospital Geral de Ijaci",
+      "municipio": "Ijaci",
+      "endereco": "Rua Francisco Cruz, 235 - Centro, Ijaci - MG, 37223-000"
+    },
+    {
+      "nome": "Hospital Geral de Iguatama",
+      "municipio": "Iguatama",
+      "endereco": "Rua Vereador Antônio Rodrigues, 259 - Centro, Iguatama - MG, 38920-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibirité",
+      "municipio": "Ibirité",
+      "endereco": "Rua Almirante Tamandaré, 105 - Centro, Ibirité - MG, 32400-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibiá",
+      "municipio": "Ibiá",
+      "endereco": "Rua Rui Barbosa, 71 - Centro, Ibiá - MG, 38950-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibertioga",
+      "municipio": "Ibertioga",
+      "endereco": "Rua Hélio Costa, 36 - Centro, Ibertioga - MG, 36245-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibirité",
+      "municipio": "Ibirité",
+      "endereco": "Rua Almirante Tamandaré, 105 - Centro, Ibirité - MG, 32400-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibiá",
+      "municipio": "Ibiá",
+      "endereco": "Rua Rui Barbosa, 71 - Centro, Ibiá - MG, 38950-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibertioga",
+      "municipio": "Ibertioga",
+      "endereco": "Rua Hélio Costa, 36 - Centro, Ibertioga - MG, 36245-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibiaí",
+      "municipio": "Ibiaí",
+      "endereco": "Rua José Augusto de Abreu, 296 - Centro, Ibiaí - MG, 39365-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibirité",
+      "municipio": "Ibirité",
+      "endereco": "Rua Almirante Tamandaré, 105 - Centro, Ibirité - MG, 32400-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibiá",
+      "municipio": "Ibiá",
+      "endereco": "Rua Rui Barbosa, 71 - Centro, Ibiá - MG, 38950-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibertioga",
+      "municipio": "Ibertioga",
+      "endereco": "Rua Hélio Costa, 36 - Centro, Ibertioga - MG, 36245-000"
+    },
+    {
+      "nome": "Hospital Geral de Ibiaí",
+      "municipio": "Ibiaí",
+      "endereco": "Rua José Augusto de Abreu, 296 - Centro, Ibiaí - MG, 39365-000"
+    }
+  ]
+}
