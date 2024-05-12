@@ -55,9 +55,9 @@ A arquitetura é baseada em microserviços usando Java no backend com spring boo
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE) para mais detalhes.
 
 # Colaboradores
-Gustavo Antonionni Carvalho 
-Gustavo Gonçalves Francischini
-Nathan Marcello De França Ferreira
-Wallysson Vieira Magalhães
-Warley Ferreira Lopes
+- Gustavo Antonionni Carvalho 
+- Gustavo Gonçalves Francischini
+- Nathan Marcello De França Ferreira
+- Wallysson Vieira Magalhães
+- Warley Ferreira Lopes
 
