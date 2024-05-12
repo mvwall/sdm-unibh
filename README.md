@@ -17,8 +17,7 @@ A arquitetura é baseada em microserviços usando Java no backend com spring boo
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
-* [Autores](#autores)
+* [Contribuição](#Autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
@@ -54,7 +53,7 @@ A arquitetura é baseada em microserviços usando Java no backend com spring boo
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE) para mais detalhes.
 
-# Colaboradores
+# Autores
 - Gustavo Antonionni Carvalho 
 - Gustavo Gonçalves Francischini
 - Nathan Marcello De França Ferreira
