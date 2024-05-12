@@ -4,7 +4,8 @@
 ![Capa do Projeto](https://img.freepik.com/vetores-gratis/uma-mao-segurando-uma-bolsa-de-sangue-tipo-a-doacao_1308-112214.jpg?w=996&t=st=1715530494~exp=1715531094~hmac=5291f88fdf0cefc7dd5e2d5fe09a7e776c6b43ab43c472ad585fcb2c10f99b87)
 
 # Sobre o Projeto
-DoaSangue é uma plataforma de doação de sangue projetada para facilitar o processo de cadastro de doadores e registro de doações. 
+DoaSangue é uma plataforma de doação de sangue projetada para facilitar o processo de cadastro de doadores e registro de doações.
+A arquitetura é baseada em microserviços usando Java no backend com spring boot.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -26,6 +27,7 @@ DoaSangue é uma plataforma de doação de sangue projetada para facilitar o pro
 
 - [x] **Cadastrar doador**
 - [x] **Registrar doação**
+- [ ] Interface Web e mobile
 - [ ] Pesquisar unidades.
 - [ ] Calendário de doação.
 - [ ] Histórico de doação.
@@ -52,6 +54,10 @@ DoaSangue é uma plataforma de doação de sangue projetada para facilitar o pro
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE) para mais detalhes.
 
-# Agradecimentos
+# Colaboradores
+Gustavo Antonionni Carvalho 
+Gustavo Gonçalves Francischini
+Nathan Marcello De França Ferreira
+Wallysson Vieira Magalhães
+Warley Ferreira Lopes
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
