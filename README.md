@@ -48,7 +48,7 @@ A arquitetura é baseada em microserviços usando Java no backend com spring boo
 - [-alpine3.16](https://www.alpinelinux.org/posts/Alpine-3.16.0-released.html)
 - [Docker](https://docs.docker.com/)
 
-[-AWS EC2](https://us-east-1.console.aws.amazon.com/ec2/)
+- [AWS EC2](https://us-east-1.console.aws.amazon.com/ec2/)
 ECR, ECS, Cluster, Load balance.
 
 
